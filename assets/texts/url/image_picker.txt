@@ -1,0 +1,1 @@
+https://github.com/flutter/plugins/tree/main/packages/image_picker/image_picker

@@ -1,0 +1,3 @@
+[author of translator] Gabriel N. Pacheco.
+package deprecated version (need http 0.13.4, but http version still update)
+source: https://pub.dev/packages/translator

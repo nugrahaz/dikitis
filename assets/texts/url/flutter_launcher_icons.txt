@@ -1,0 +1,1 @@
+https://github.com/fluttercommunity/flutter_launcher_icons
